@@ -7,4 +7,4 @@
 
 <p align='center' 
   
-⪩ ㅤ A[ta](https://eonsadrift.atabook.org)ㅤ ˘   ㅤS[traw](https://wretchedvermin.straw.page)ㅤ⪨
+⪩ ㅤ A[ta](https://eonsadrift.atabook.org)ㅤ ˘   ㅤS[traw](https://yuubanmeigen.straw.page)ㅤ⪨
