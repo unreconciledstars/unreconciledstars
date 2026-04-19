@@ -1,4 +1,6 @@
-## miau wip nom nom
+<div id="header" align="center">
+  
+<img width="500" height="259" alt="Image" src="https://github.com/user-attachments/assets/1db04b64-6589-4cb4-b44d-c7c4b025aa82" />
 
 <!--
 **unreconciledstars/unreconciledstars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
